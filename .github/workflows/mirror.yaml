@@ -1,5 +1,5 @@
-name: Mirror Repository Action
-uses: cssnr/mirror-repository-action@v1.2.0
+name: 'Mirror Repository Action'
+# uses: cssnr/mirror-repository-action@v1.2.0
 
 on:
   workflow_dispatch:
@@ -22,7 +22,7 @@ jobs:
       - name: 'Mirror to Codeberg'
         uses: cssnr/mirror-repository-action@v1
         with:
-          url: https://github.com/codecollectiveKHM/CC_SU26
+          url: https://github.com/codecollectiveKHM/CC_SU26.git
           host: https://codeberg.org
           # owner: codecollectiveKHM
           # repo: CC_SU26
