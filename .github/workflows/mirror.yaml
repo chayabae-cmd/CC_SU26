@@ -1,4 +1,4 @@
-name: 'Mirror Repository Action'
+name: Mirror Repository Action
 # uses: cssnr/mirror-repository-action@v1.2.0
 
 on:
