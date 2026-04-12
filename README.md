@@ -1,18 +1,19 @@
 # Code Collective, Summer 2026 @ KHM
 
+You can contribute to this git repo via [Codeberg](https://codeberg.org/codecollective/CC_SU26/) or [GitHub](https://github.com/codecollectiveKHM/CC_SU26). <!--First join the organization with your own user account, then fork the repo, make changes from your fork, and submit a pull request.-->
+
+- [Schedule](#schedule)
+- [Office Hours](#who)
+- [Course Roster](roster.md)
+- [Resources & Knowledge Base](#resources)
+- [Shared Readings & Bibliography](readings.md)
+- [Community Expectations](#community-expectations)
+- **Projects** to come
+- **Templates** to come
+
 ## What Is Code Collective
 
 Code Collective is a supportive community for  critical–creative coding. It is organized as a collaboratory (colloquium-collaboration-laboratory) emphasizing co-learning and co-teaching, process, and experimentation. In this cooperative space you can dabble in code, troubleshoot a dream project, ask ‘silly’ questions, and explore new programming techniques suited to your artistic practice. The topics and tech will vary based on our shared  interests, always with a focus on the sociotechnical impacts of our practice. All levels and languages are welcome!
-
-## How: Find it in this repo
-
-1. [Schedule](#schedule)
-2. [Resources & Knowledge Base](#resources)
-3. [Community Expectations](#community-expectations)
-4. [Projects]()
-5. [Templates]()
-
-You can contribute to this git repo via [Codeberg](https://codeberg.org/codecollective/CC_SU26/) or [GitHub](https://github.com/codecollectiveKHM/CC_SU26). <!--First join the organization with your own user account, then fork the repo, make changes from your fork, and submit a pull request.-->
 
 ## Where & When
 
@@ -20,22 +21,22 @@ Seminars every Thursday 11.00-13.00 CEST, 16 April–9 July 2026 at Lab **TBD**,
 
 Contact [Sarah](sarah.ciston@khm.de) to join
 
-#### Schedule
+### Schedule
 
-|Week|Date|Topics & Presentations|Read of the Week|
-|---|---|---|---|
-|16|16 Apr|Introductions||
-|17|23 Apr|TBD|TBD|
-|18|30 Apr|||
-|19|7 May|||
-|20|14 May|||
-|21|21 May|||
-|22|28 May|||
-|23|4 Jun|||
-|24|11 Jun|||
-|25|25 Jun|||
-|26|2 Jul|||
-|27|9 Jul|RUNDGANG|n/a|
+|Week|Date|Topics & Presentations|[Read of the Week](readings.md)|Discussion Lead|
+|---|---|---|---|---|
+|1|16 Apr|Introductions|[McQuillan "Predicted Benefits, Proven Harms: How AI’s Algorithmic Violence Emerged from Our Own Social Matrix"](https://doi.org/10.51428/tsr.ekpj9730)|Sarah|
+|2|23 Apr|TBD|TBD|TBD|
+<!-- |3|30 Apr|||| -->
+<!-- |4|7 May|||| -->
+<!-- |5|14 May|||| -->
+<!-- |6|21 May|||| -->
+<!-- |7|28 May|||| -->
+<!-- |8|4 Jun|||| -->
+<!-- |9|11 Jun|||| -->
+<!-- |10|25 Jun|||| -->
+<!-- |11|2 Jul|||| -->
+<!-- |12|9 Jul|RUNDGANG|n/a|n/a| -->
 
 ## Who
 
@@ -55,73 +56,103 @@ Sprechstunden: Tues 14.00–16.00, Co-working @ Lab
 
 ## Why
 
-#### Goals & Outcomes
+Rather than a top-down lecture format or traditional coding skills course, this seminar is organized from the bottom up. It aims for students to direct their own course of learning with the instructor as coach or guide. The purpose of this approach is to provide meta-skills like independent investigation, research, and skill-building, as well as a supportive environment to explore and take creative risks. 
 
-You’ll understand how artists, engineers, makers, and scholars can embrace coding with a critical eye toward ethics and a creative glint that can help imagine more equitable futures.
+### Goals & Outcomes
 
-You will gain comfort exploring data and coding, building on any existing skills with new perspectives both technical and critical. You can also emerge with a zine about what we’ve learned.
+You'll understand how artists, engineers, makers, and scholars can embrace coding with a critical eye toward ethics and a creative glint that can help imagine more equitable futures.
 
-You’ll build upon your portfolio of individual and collaborative code projects, as well as your community of practice among critical-creative coders.
+You'll gain comfort exploring data and coding, building on any existing skills with new perspectives both technical and critical. You can also emerge with adjacent analog skills, like zine-making and tool-sharing as we reflect back what we've learned.
 
-Outcomes depend on your individual goals and are measured on an individual basis in consultation with the instructor. Start by setting your own goal for what you’d like to get out of the term and how you'd like to contribute to any group goals. Check in midway and toward the end of the term to see how your goals may have changed after working on your project.
+You'll build upon your portfolio of individual and collaborative code projects, as well as your community of practice among critical-creative coders.
 
-#### Prerequisites
+Outcomes depend on your individual goals and are measured on an individual basis in consultation with the instructor. Start by setting your own goal for what you'd like to get out of the term and how you'd like to contribute to any group goals. Check in midway and toward the end of the term to see how your goals may have changed after working on your project.
+
+## How
+
+### Prerequisites
 
 None! No particular experience is required. Any kind of field or background is helpful to get started. Don't worry, no matter your existing level of comfort with code, even if it's none, we meet each other where we are. You don’t have to install or buy anything in advance either; we’ll handle that together. It's great if you have in mind a project or a skill you want to work on. Just start from asking, *"What do I want to make, and why?"*
 
-#### Resources
+### Seminar Format
+
+1. **Opening Check-ins**: Two minutes per person. What are you working on, wondering or worrying about? What have you come across of interest during your week?
+2. **Read of the Week Discussion**: Optional short session engaging with the selected reading. 
+3. **Co-working, Showcases, Workshops, or Troubleshooting**: The main portion of seminar is self-directed, based on what came up during opening check-ins and reading discussion.
+4. **Closing Remarks**: Wrap up and plans for next meeting.
+
+### Read of the Week
+
+A short text or piece of media to spark conversation about current topics of interest furthering our research, the Read of the Week is selected together for the next week and collective discussion will be lead by a volunteer. See [potential readings](readings.md).
+
+### Potential Topics & Tinkering
+
+- Coding for Vibe Coders
+- Coding for Non-Coders
+- Custom models, small models, local models, and other (slightly) less-evil AI model use
+- Self-hosting
+- Mesh networks & Edge AI
+- Let's learn Rust together
+- Lab Knowledge Hub site
+- Your own projects...
+- ??
+- ??
+
+#### [Lab Knowledge Hub](https://codecollectiveKHM.github.io/knowledgehub) 
 
 We can build a group of resources and shared readings together.
 
-[Lab Knowledge Hub](https://codecollectiveKHM.github.io/knowledgehub)
-
-Wish List:
-- Collaborative Bibliography, Mediography, Zotero: 
-- Residencies, PhDs, Applications
+Wishlist:
 - Lab Inventories & Instructions  
-- Hybrid Seminar Video Link
-- Matrix Server / Chat Link
+- Collaborative Bibliography, Mediography, Zotero
+- Residencies, PhDs, Applications
+<!-- - Hybrid Seminar Video Link -->
+- What else would you like to see included?
 
-Other hubs:
-- [Code Collective Resource Hub](https://codecollective.org/resource-hub)
-- [Machine Listening Library](https://machinelistening.exposed/library/BROWSE_LIBRARY.html)
+Format options:
+- Logseq
+- Matrix server
+- Quarto website (markdown)
+- Repo (markdown)
+
+<!-- Other hubs: -->
+<!-- - [Code Collective Resource Hub](https://codecollective.org/resource-hub) -->
+<!-- - [Machine Listening Library](https://machinelistening.exposed/library/BROWSE_LIBRARY.html) -->
 
 ## Community Expectations
 
 Developed in past Code Collectives, these guidelines are open to inputs and updates as necessary to support the needs of this space as it evolves.
 
- 1. scrappy artistic strategies, not perfect code <sup>2</sup>
- 1. growth not perfection<sup>2</sup>
- 1. collaboration not competition<sup>2</sup>
- 1. process over outcome<sup>4</sup>
- 1. we all have skills to teach each other<sup>2</sup>
- 1. we meet people where they are. try not to assume knowledge or imply skill hierarchies. (no code snobs.)<sup>3</sup> 
- 1. always theory–practice, always critical-creative, always interdisciplinary and intersectional<sup>2</sup>
- <!-- 1. focus on strategies rather than issues, solutions rather than problems<sup>5</sup> -->
- 1. no one's basic human rights are up for debate. 
- 1. listen from the heart, speak from the heart, be spontaneous, be brief<sup>6</sup>
- <!-- 2. engage tension; don't indulge drama<sup>4</sup> -->
- 1. assume best intent and attend to impact<sup>4</sup>
- <!-- 5. attempt collaboration before conflict<sup>7</sup> -->
- 1. accept responsibility for actions and take care to make amends when wrong<sup>3</sup>
- <!-- 7. take the lessons, leave the details (default to confidentiality)<sup>4</sup> -->
- 1. center care<sup>5</sup> — both self care and community care are connected<sup>4</sup>
- 1. we communicate, cooperate, and care for each other to build the kind of community we want
+1. scrappy artistic strategies, not perfect code<sup>2</sup>
+2. growth not perfection<sup>2</sup>
+3. collaboration not competition<sup>2</sup>
+4. process over outcome<sup>4</sup>
+5. we all have skills to teach each other<sup>2</sup>
+6. we meet people where they are. we try not to assume knowledge or imply skill hierarchies. (no code snobs.)<sup>3</sup> 
+7. we don't assume any identities based on appearance. our approach is characterized by intersectionality.<sup>10</sup>
+8. we strive to understand different points of view and avoid generalizations.<sup>10</sup>
+9. no one's basic human rights are up for debate.
+10. assume best intent and attend to impact<sup>4</sup>
+11. only yes means yes<sup>10</sup>
+12. in dialogue, we actively listen and speak from the heart, are spontaneous and brief,<sup>6</sup> allowing others room to express themselves<sup>10</sup>
+13. we accept responsibility for our actions and work towards repair<sup>3</sup>
+14. we center care,<sup>5</sup> understanding that self care and community care are connected.<sup>4</sup>
+15. we must communicate, cooperate, and care for each other to build the kind of community we want
 
-Thank you to the individuals and organizations who developed these principles and protocols: adrienne maree brown,<sup>4</sup> Allied Media Conference,<sup>5</sup> Berlin Code of Conduct,<sup>8</sup> Center for Council,<sup>6</sup> Creative Code Collective (LA),<sup>2</sup> *Feminist Killjoy Handbook*,<sup>10</sup> P5.js,<sup>3</sup> Superrr,<sup>7</sup> and W3C.<sup>9</sup>
+Thank you to the individuals and organizations who from whom we adopted these principles and protocols: adrienne maree brown,<sup>4</sup> Allied Media Conference,<sup>5</sup> Berlin Code of Conduct,<sup>8</sup> Center for Council,<sup>6</sup> Creative Code Collective (LA),<sup>2</sup> *Feminist Killjoy Handbook*,<sup>10</sup> Ground Zero KHM,<sup>10</sup> P5.js,<sup>3</sup> Superrr,<sup>7</sup> and W3C.<sup>9</sup>
 
-[text](../../../../var/folders/r1/dzvfn41j59l263tk3rr71hlm0000gn/T/com.apple.useractivityd/shared-pasteboard/items/7B021DAC-5350-4D3D-8ABA-4BEFFAF3ACEE/dbbd79962f0c7f441755a3a1cfd69ae02625a71f.rtfd)
-
-#### Access support 
+### Access support 
 To accommodate your body during seminars or co-working, please feel free to stim, stretch, knit, doodle, move around, change seats, take a break or do what feels right to you. A calm, quieter area is being designated for taking time to reset. Please feel free to use that space, while respecting the space, and others in the space. It is important that you can learn in ways that support you — and all of us together — by making a shared space that is comfortable to express those needs, including any issues with the format, materials, requirements, lab areas, etc. Please communicate with Sarah how they can help support any access concerns, as it is their goal to create a learning experience that is as accessible as possible.
 
-#### Computer code
-Programming is often collaborative, and computer code is often shared and reused. To an extent, this is appropriate in a coding course unless otherwise directed. If you do use code not written by yourself alone, you should always attribute it — no matter if the code comes from AI tools, a tutorial, a friend, or any other source. Please follow these protocols from MIT, which call for placing a comment in one's code with a URL to the original source, a note if it was adapted, and the date of retrieval: https://integrity.mit.edu/handbook/writing-code .
+### Computer code is text
+Programming is often collaborative, and computer code is often shared and reused. To an extent, this is appropriate in a coding course unless otherwise directed. When you use code not written by yourself alone, you should always attribute it — no matter if the code comes from AI tools, a tutorial, a friend, or any other source. Please follow these protocols from MIT, which call for placing a comment in one's code with a URL to the original source, a note if it was adapted, and the date of retrieval: https://integrity.mit.edu/handbook/writing-code . When using AI tools in particular, please describe which models were employed, as well as what prompts and further processes led to your results.
 
-#### Land acknowledgment
+#### Land, labor, & infrastructure acknowledgment
 
-### Additional agreements & information
+This project takes place in person and online, and it has been developed in prior iterations across multiple unceded Indigenous Lands. It acknowledges all custodians of the lands on which we work and the labor of those working across multiple continents to produce the hardware and software infrastructures that support this ongoing work. 
 
-All [KHM Grundordung](https://www.khm.de/downloadpool/) apply.
+A mirrored version of this repo is hosted on [Codeberg](https://codeberg.org/codecollective/CC_SU26), as a community-driven alternative to GitHub.
 
-Information on [Academic Freedom](https://www.ecchr.eu/en/grey-zones/) for migrant scholars.
+### Additional information
+
+[Academic Freedom](https://www.ecchr.eu/en/grey-zones/) for migrant scholars
