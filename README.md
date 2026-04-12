@@ -98,7 +98,7 @@ A short text or piece of media to spark conversation about current topics of int
 - ??
 - ??
 
-#### [Lab Knowledge Hub](https://codecollectiveKHM.github.io/knowledgehub) 
+### [Lab Knowledge Hub](https://codecollectiveKHM.github.io/knowledgehub) 
 
 We can build a group of resources and shared readings together.
 
@@ -147,11 +147,15 @@ To accommodate your body during seminars or co-working, please feel free to stim
 ### Computer code is text
 Programming is often collaborative, and computer code is often shared and reused. To an extent, this is appropriate in a coding course unless otherwise directed. When you use code not written by yourself alone, you should always attribute it — no matter if the code comes from AI tools, a tutorial, a friend, or any other source. Please follow these protocols from MIT, which call for placing a comment in one's code with a URL to the original source, a note if it was adapted, and the date of retrieval: https://integrity.mit.edu/handbook/writing-code . When using AI tools in particular, please describe which models were employed, as well as what prompts and further processes led to your results.
 
-#### Land, labor, & infrastructure acknowledgment
+### Land, labor, & infrastructure acknowledgment
 
 This project takes place in person and online, and it has been developed in prior iterations across multiple unceded Indigenous Lands. It acknowledges all custodians of the lands on which we work and the labor of those working across multiple continents to produce the hardware and software infrastructures that support this ongoing work. 
 
-A mirrored version of this repo is hosted on [Codeberg](https://codeberg.org/codecollective/CC_SU26), as a community-driven alternative to GitHub.
+### Choosing tools
+
+Given the impact of every technology, we strive to choose open-access, open-source, more community-oriented tools wherever possible (while acknowledging that this is not always possible and everyone's circumstances are different.) 
+
+For example, a mirrored version of this repo is hosted on [Codeberg](https://codeberg.org/codecollective/CC_SU26) as a community-driven alternative to GitHub. The Knowledge Hub includes references for some of the tools available. 
 
 ### Additional information
 

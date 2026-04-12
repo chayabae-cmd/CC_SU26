@@ -2,23 +2,21 @@
 
 Amaro, Ramon. 2022. "Introduction." The Black Technical Object: On Machine Learning and the Aspiration of Black Being. Sternberg Press. (selections provided)
 
-Cox, Geoff, and Winnie Soon. 2020. Aesthetic Programming: A Handbook of Software Studies. Open Humanities Press. http://www.openhumanitiespress.org/books/titles/aesthetic-programming/. (selections)
-
 Evans J. 2013-2026. Wizard Zines. https://wizardzines.com/ (selections provided)
-
-Franklin UM. 2004. The Real World of Technology. (selections provided)
 
 Ganesh, MI. 2025. AUTO-CORRECT: The Fantasies and Failures of AI, Ethics, and the Driverless Car. (selections provided)
 
+Gebru, Timnit, and Émile P. Torres. 2024. "The TESCREAL Bundle: Eugenics and the Promise of Utopia through Artificial General Intelligence." First Monday, April 14. https://doi.org/10.5210/fm.v29i4.13636
+
+Hamraie, Aimi, and Kelly Fritsch. 2019. “Crip Technoscience Manifesto.” Catalyst: Feminism, Theory, Technoscience 5 (1): 1–33. https://doi.org/10.28968/cftt.v5i1.29607
+
 > McQuillan, Dan. 2023. “Predicted Benefits, Proven Harms: How AI’s Algorithmic Violence Emerged from Our Own Social Matrix.” The Sociological Review Magazine, June 6. https://doi.org/10.51428/tsr.ekpj9730.
 
-Morrison, Romi Ron. 2022. “Voluptuous Disintegration: A Future History of Black Computational Thought.” Digital Humanities Quarterly 016 (3). https://dhq.digitalhumanities.org/vol/16/3/000634/000634.html
+Nakamura L. 2014. "Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture."
 
-Nakamura L. 2014. “Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture.”
+Seaver N. 2021. "Care and Scale: Decorrelative Ethics in Algorithmic Recommendation."
 
-Seaver N. 2021. “Care and Scale: Decorrelative Ethics in Algorithmic Recommendation.”
-
-Scheuerman M, Denton E, Hanna A. 2021. “Do Datasets Have Politics? Disciplinary Values in Computer Vision Dataset Development.”
+Star, Susan Leigh. 1999. “The Ethnography of Infrastructure.” American Behavioral Scientist 43 (3): 377–91. https://doi.org/10.1177/00027649921955326. 
 
 Steyerl, Hito. 2025. Medium Hot. Verso. (selections provided)
 
@@ -26,17 +24,39 @@ Weatherby L. 2025. Language Machines: Cultural AI and the End of Remainder Human
 
 Weizenbaum, Joseph. 2014. “The Myth of the Last Metaphor.” In Speaking Minds: Interviews with Twenty Eminent Cognitive Scientists, eds. Peter Baumgartner and Sabine Payr. Princeton UP. https://www.degruyterbrill.com/document/doi/10.1515/9781400863969.249/html.
 
-### Additional suggestions welcome. Please add yours here...
+# Collaborative bibliography
+
+Additional suggestions for Read of the Week are welcome. Please add yours here in **bold** along with any other suggested readings ...
+
+Amoore, Louise. 2020. Cloud Ethics: Algorithms and the Attributes of Ourselves and Others. https://doi.org/10.1215/9781478009276
+
+Artist, American. n.d. “Black Gooey Universe.” Unbag. Accessed February 19, 2021. https://unbag.net/end/black-gooey-universe
 
 Blackwell, Alan F. 2024. Moral Codes: Designing Alternatives to AI. The MIT Press. https://doi.org/10.7551/mitpress/14872.001.0001. (selections)
 
-Calvino, Italo. 1976. "The Burning of the Abominable House." Numbers in the Dark: And Other Stories. Edited by Tim Parks. Pantheon Books.
+Calvino, Italo. 1976. "The Burning of the Abominable House." Numbers in the Dark: And Other Stories. Edited by Tim Parks. Pantheon Books. (content warning)
 
 Ciston, Sarah. "A Critical Field Guide for Working with Machine Learning Datasets." eds. Mike Ananny & Kate Crawford. https://knowingmachines.org/critical-field-guide
 
 Cotton M. 2025. Radical Software: Women, Art, & Computing 1960-1991. (KHM Bibliothek, auf Deutsch; Lab copy, English) (selections)
 
+Dhaliwal, Ranjodh Singh. 2022. “On Addressability, or What Even Is Computation?” Critical Inquiry 49 (1): 1–27. https://doi.org/10.1086/721167
+
+Franklin UM. 2004. The Real World of Technology. (selections provided)
+
+Hoff, Melanie. 2022. “Always-Already-Programming.md.” Gist. October 17, 2022. https://gist.github.com/melaniehoff/95ca90df7ca47761dc3d3d58fead22d4
+
+Morrison, Romi Ron. 2022. "Voluptuous Disintegration: A Future History of Black Computational Thought." Digital Humanities Quarterly 016 (3). https://dhq.digitalhumanities.org/vol/16/3/000634/000634.html
+
+Noble, Safiya Umoja. 2018. Algorithms of Oppression : How Search Engines Reinforce Racism. New York: NYU Press
+
 Schirvar, Sam. “Machinery for Managers: Secretaries, Psychologists, and 'Human–Computer Interaction', 1973–1983.” BJHS Themes 8 (2023): 97–110. https://doi.org/10.1017/bjt.2023.10.
+
+Shane, Janelle. 2021. You look like a thing and I love you: how artificial intelligence works and why it’s making the world a weirder place. 
+
+Sharma, Sarah. 2020. “A Manifesto for the Broken Machine.” Camera Obscura: Feminism, Culture, and Media Studies 35 (2 (104)): 171–79. https://doi.org/10.1215/02705346-8359652
+
+Shih, Xin Xin, and Katherine Moriwaki, eds. 2022. Critical Coding Cookbook. https://criticalcode.recipes
 
 ...
 
