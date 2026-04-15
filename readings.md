@@ -34,7 +34,9 @@ Blackwell, Alan F. 2024. Moral Codes: Designing Alternatives to AI. The MIT Pres
 
 Calvino, Italo. 1976. "The Burning of the Abominable House." Numbers in the Dark: And Other Stories. Edited by Tim Parks. Pantheon Books. (content warning)
 
-Ciston, Sarah. "A Critical Field Guide for Working with Machine Learning Datasets." eds. Mike Ananny & Kate Crawford. https://knowingmachines.org/critical-field-guide
+Ciston, Sarah. "Coding.Care: Field notes for making friends with code" in *Coding.Care: Guidebooks for Intersectional AI* https://coding.care (or ask for print zine draft)
+
+Ciston, Sarah. "A Critical Field Guide for Working with Machine Learning Datasets." eds. Mike Ananny & Kate Crawford. https://knowingmachines.org/critical-field-guide (or ask for print zine)
 
 Cotton M. 2025. Radical Software: Women, Art, & Computing 1960-1991. (KHM Bibliothek, auf Deutsch; Lab copy, English) (selections)
 
@@ -58,11 +60,13 @@ Sharma, Sarah. 2020. “A Manifesto for the Broken Machine.” Camera Obscura: F
 
 Shih, Xin Xin, and Katherine Moriwaki, eds. 2022. Critical Coding Cookbook. https://criticalcode.recipes
 
-...
+Zweig, Katharina A. 09. Weiß die KI, dass sie nichts weiß? wofür wir Chatbots und KI-Agenten nutzen sollten, wo sie sich irren und wo wir aufpassen müssen: ChatGPT und Co. einfach erklärt. Heyne
 
 ...
 
-# Particularly useful programming books
+...
+
+# Useful programming books
 
 Cox, Geoff, and Winnie Soon. 2020. Aesthetic Programming: A Handbook of Software Studies. Open Humanities Press. http://www.openhumanitiespress.org/books/titles/aesthetic-programming/.
 
@@ -71,3 +75,26 @@ Evans J. 2013-2026. Wizard Zines. https://wizardzines.com/
 Haverbeke, Marijn. 2024. Eloquent JavaScript: A Modern Introduction to Programming. Fourth edition. No Starch Press. https://eloquentjavascript.net/.
 
 Montfort, Nick. 2021. Exploratory Programming for the Arts and Humanities. 2nd ed. MIT Press. https://nickm.com/books/exploratory_programming_2e/. 
+
+# Zines
+
+See physical zine library in Lab
+
+Instagram links below...
+
+#### LIBRARIES... zines on zines on zines
+@tinytechzines, tinytechzines.org/, has a store
+@queer_reads_library
+@edinburghzinelibrary
+@mixedricezines
+@queerarchivework
+@wolfchirp, gorgeous bookmaking
+@zinedabaad
+@zine_coop
+
+#### INDIVIDUAL PROJECTS
+@tigerteazine, MAP student thesis
+@wizardzines, Julia Evans wizardzines.com, very cool non-intimidating coding zines and good ideas in general
+Meg-John Barker, https://www.rewriting-the-rules.com/zines/, self-care and queer relationship zines
+@bubblesortzines, so cute
+ZineMachine, https://zine-machine.glitch.me/, digital/print template maker

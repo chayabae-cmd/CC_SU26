@@ -91,9 +91,9 @@ A short text or piece of media to spark conversation about current topics of int
 
 - Coding for Vibe Coders
 - Coding for Non-Coders
-- Custom models, small models, local models, and other (slightly) less-evil AI model use
-- Self-hosting
-- Mesh networks & Edge AI
+- Custom models, small models, local models, open-source, and other (slightly) less-evil AI model use (incl. Ollama, Langchain, OpenWebUI how-tos)
+- Self-hosting tools & how to
+- Mesh networks, Edge AI
 - Let's learn Rust together
 - Lab Knowledge Hub site
 - Your own projects...
@@ -123,7 +123,7 @@ Format options:
 
 ## Community Expectations
 
-Developed in past Code Collectives, these guidelines are open to inputs and updates as necessary to support the needs of this space as it evolves.
+Developed in past Code Collectives, these guidelines are a living document, open to inputs and updates as necessary to support the needs of this space as it evolves.
 
 1. scrappy artistic strategies, not perfect code<sup>2</sup>
 2. growth not perfection<sup>2</sup>
