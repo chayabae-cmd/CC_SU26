@@ -1,4 +1,6 @@
-# Potential Reads of the Week
+# Collaborative Bibliography
+
+## Potential Texts of the Week
 
 Amaro, Ramon. 2022. "Introduction." *The Black Technical Object: On Machine Learning and the Aspiration of Black Being.* Sternberg Press. (selections provided)
 
@@ -22,7 +24,30 @@ Weatherby L. 2025. *Language Machines: Cultural AI and the End of Remainder Huma
 
 Weizenbaum, Joseph. 2014. “The Myth of the Last Metaphor.” In *Speaking Minds: Interviews with Twenty Eminent Cognitive Scientists*, eds. Peter Baumgartner and Sabine Payr. Princeton UP. https://www.degruyterbrill.com/document/doi/10.1515/9781400863969.249/html
 
-# Collaborative bibliography
+## Zines
+
+See physical zine library in Lab...
+
+Instagram links below...
+
+#### LIBRARIES... zines on zines on zines
+[tinytechzines.org] has a store
+[@queer_reads_library](https://instagram.com/queer_reads_library)
+[@edinburghzinelibrary](https://instagram.com/edinburghzinelibrary)
+[@mixedricezines](https://instagram.com/mixedricezines)
+[@queerarchivework](https://instagram.com/queerarchivework)
+[@wolfchirp](https://instagram.com/wolfchirp) gorgeous bookmaking
+[@zinedabaad](https://instagram.com/zinedabaad)
+[@zine_coop](https://instagram.com/zine_coop)
+
+#### INDIVIDUAL PROJECTS
+[@tigerteazine](https://instagram.com/tigerteazine), USC MAP student thesis
+[@wizardzines](https://instagram.com/wizardzines), Julia Evans wizardzines.com, very cool non-intimidating coding zines and good ideas in general
+[Meg-John Barker](https://www.rewriting-the-rules.com/zines/), self-care and queer relationship zines
+[@bubblesortzines](https://instagram.com/bubblesortzines) so cute
+[ZineMachine](https://zine-machine.glitch.me), digital/print template maker
+
+## More Texts
 
 Additional suggestions for Read of the Week are welcome. Please add yours here in **bold** along with any other suggested readings ...
 
@@ -66,7 +91,7 @@ Zweig, Katharina A. 09. Weiß die KI, dass sie nichts weiß? wofür wir Chatbots
 
 ...
 
-# Useful programming books
+## Useful programming books
 
 Cox, Geoff, and Winnie Soon. 2020. Aesthetic Programming: A Handbook of Software Studies. Open Humanities Press. http://www.openhumanitiespress.org/books/titles/aesthetic-programming/.
 
@@ -76,25 +101,3 @@ Haverbeke, Marijn. 2024. Eloquent JavaScript: A Modern Introduction to Programmi
 
 Montfort, Nick. 2021. Exploratory Programming for the Arts and Humanities. 2nd ed. MIT Press. https://nickm.com/books/exploratory_programming_2e/. 
 
-# Zines
-
-See physical zine library in Lab
-
-Instagram links below...
-
-#### LIBRARIES... zines on zines on zines
-@tinytechzines, tinytechzines.org/, has a store
-@queer_reads_library
-@edinburghzinelibrary
-@mixedricezines
-@queerarchivework
-@wolfchirp, gorgeous bookmaking
-@zinedabaad
-@zine_coop
-
-#### INDIVIDUAL PROJECTS
-@tigerteazine, MAP student thesis
-@wizardzines, Julia Evans wizardzines.com, very cool non-intimidating coding zines and good ideas in general
-Meg-John Barker, https://www.rewriting-the-rules.com/zines/, self-care and queer relationship zines
-@bubblesortzines, so cute
-ZineMachine, https://zine-machine.glitch.me/, digital/print template maker

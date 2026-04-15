@@ -146,10 +146,13 @@ Developed in past Code Collectives, these guidelines are a living document, open
 Thank you to the individuals and organizations who from whom we adopted these principles and protocols: adrienne maree brown,<sup>4</sup> Allied Media Conference,<sup>5</sup> Berlin Code of Conduct,<sup>8</sup> Center for Council,<sup>6</sup> Creative Code Collective (LA),<sup>2</sup> *Feminist Killjoy Handbook*,<sup>10</sup> Ground Zero KHM,<sup>11</sup> Donna Haraway,<sup>12</sup> P5.js,<sup>3</sup> Superrr,<sup>7</sup> and W3C.<sup>9</sup>
 
 ### Access support 
-To accommodate your body during seminars or co-working, please feel free to stim, stretch, knit, doodle, move around, change seats, take a break or do what feels right to you. A calm, quieter area is being designated for taking time to reset. Please feel free to use that space, while respecting the space, and others in the space. It is important that you can learn in ways that support you — and all of us together — by making a shared space that is comfortable to express those needs, including any issues with the format, materials, requirements, lab areas, etc. Please communicate with Sarah how they can help support any access concerns, as it is their goal to create a learning experience that is as accessible as possible.
+To accommodate your body during seminars or co-working, please feel free to stim, stretch, knit, doodle, move around, change seats, take a break or do what feels right to you. 
 
-### Snack policy
-We are extremely pro snacks. Please bring and enjoy snacks!
+A calm, quieter area is (in the process of) being designated for taking time to reset. Please feel free to use that space, while respecting the space, and others in the space. It is important that you can learn in ways that support you — and all of us together — by making a shared space that is comfortable to express those needs, including any issues with the format, materials, requirements, lab areas, etc. 
+
+All spoken, written, and programmed languages are welcome, and we will strive to support learning in any language as much as possible. Although instruction may sometimes be limited by our shared languages, we aim to share the cognitive load and to seek out additional resources. A broad and caring community of practice is the goal. 
+
+Please feel invited to communicate with Sarah how they can help support any aspects of your access needs, as it is their goal to create a learning experience that is as widely supportive as possible.
 
 ### Computer code is text
 Programming is often collaborative, and computer code is often shared and reused. To an extent, this is appropriate in a coding course unless otherwise directed. When you use code not written by yourself alone, you should always attribute it — no matter if the code comes from AI tools, a tutorial, a friend, or any other source. Please follow these protocols from MIT, which call for placing a comment in one's code with a URL to the original source, a note if it was adapted, and the date of retrieval: https://integrity.mit.edu/handbook/writing-code . When using AI tools in particular, please describe which models were employed, as well as what prompts and further processes led to your results.
@@ -164,6 +167,10 @@ Given the impact of every technology, we strive to choose open-access, open-sour
 
 For example, a mirrored version of this repo is hosted on [Codeberg](https://codeberg.org/codecollective/CC_SU26) as a community-driven alternative to GitHub. The Knowledge Hub includes references for some of the tools available. 
 
-### Additional information
+### Academic freedom and artistic practice
 
-[Academic Freedom](https://www.ecchr.eu/en/grey-zones/) for migrant scholars
+[Academic Freedom](https://www.ecchr.eu/en/grey-zones/) for artists and scholars at risk, including migrant scholars
+
+### Snack policy 🥨
+We are extremely pro snacks. Please bring and enjoy snacks!
+
