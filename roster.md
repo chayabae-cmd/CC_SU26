@@ -1,13 +1,14 @@
 # SU26 Code Collective Roster
+
 Add your info here!
 Or here: https://wolke.khm.de/index.php/s/ETRjKwjor7ncKyo
+
 |name|git profile|link|existing skill offer|new interests|
 |---|---|---|---|---|
 |Sarah Ciston|[@sarahciston](https://github.com/sarahciston)|[sarahciston.com](https://sarahciston.com)|critical AI, old-school vibe coding, military AI use, knitting, zine-making, queer feminist poetics|edge AI, small language models, RFID for installations|
-|Aiden Vetter|[@13c13rq](https://github.com/13c13rq)|[Leclerqs-abode.com](https://leclerqs-abode.com)|libre & FOSS software, Perl script, Bash script, experimental & creative writing / coding, pc hardware & repair, Linux sysadmin|Rust, OpenGL, procedural AR simulations|
+|Aiden Vetter|@13c13rq||||
 |jeo kang|@jeokang|https://www.instagram.com/jeo_kang/|||
 ||||||
 ||||||
 ||||||
-||||||
-||||||
+|dennis aycicek|[[dennisaycicek.de](https://dennisaycicek.de)|sound, noise, non-music, performance, experimental music, post-industrial research, collage-making|
