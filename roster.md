@@ -12,4 +12,6 @@ Or here: https://wolke.khm.de/index.php/s/ETRjKwjor7ncKyo
 ||||||
 |Merre|[@hochstabil](https://github.com/hochstabil)|[Soundcloud Page](https://soundcloud.com/user-405110167)|||
 ||||||
+||||||
+|dennis aycicek||[dennisaycicek.de](https://dennisaycicek.de)|sound, noise, non-music, performance, experimental music, post-industrial research, collage-making|
 |Chanmin Kim|@Kücheutensilien|chanchanmin.com|Vinted, Analog Film|Cowboy boots, Kücheutensilien, Was hat Mensa heute, Korn Schnaps, Black Magie|
