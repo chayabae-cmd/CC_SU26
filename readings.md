@@ -6,7 +6,7 @@ Amaro, Ramon. 2022. "Introduction." *The Black Technical Object: On Machine Lear
 
 Ganesh, MI. 2025. *AUTO-CORRECT: The Fantasies and Failures of AI, Ethics, and the Driverless Car.*(selections provided)
 
-Gebru, Timnit, and Émile P. Torres. 2024. "The TESCREAL Bundle: Eugenics and the Promise of Utopia through Artificial General Intelligence." First Monday, April 14. https://doi.org/10.5210/fm.v29i4.13636
+>Gebru, Timnit, and Émile P. Torres. 2024. "The TESCREAL Bundle: Eugenics and the Promise of Utopia through Artificial General Intelligence." First Monday, April 14. https://doi.org/10.5210/fm.v29i4.13636
 
 Hamraie, Aimi, and Kelly Fritsch. 2019. “Crip Technoscience Manifesto.” Catalyst: Feminism, Theory, Technoscience 5 (1): 1–33. https://doi.org/10.28968/cftt.v5i1.29607
 
@@ -52,7 +52,7 @@ Instagram links below...
 
 ## More Texts
 
-Additional suggestions for Read of the Week are welcome. Please add yours here in **bold** along with any other suggested readings ...
+Additional suggestions for Text of the Week are welcome. Please add yours here in **bold** along with any other suggested readings ...
 
 Amoore, Louise. 2020. Cloud Ethics: Algorithms and the Attributes of Ourselves and Others. https://doi.org/10.1215/9781478009276
 

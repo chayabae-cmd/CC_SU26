@@ -13,7 +13,7 @@ You can contribute to this git repo via [Codeberg](https://codeberg.org/codecoll
 
 ## What Is Code Collective
 
-Code Collective is a supportive community for  critical–creative coding. It is organized as a collaboratory (colloquium-collaboration-laboratory) emphasizing co-learning and co-teaching, process, and experimentation. In this cooperative space you can dabble in code, troubleshoot a dream project, ask ‘silly’ questions, and explore new programming techniques suited to your artistic practice. The topics and tech will vary based on our shared  interests, always with a focus on the sociotechnical impacts of our practice. All levels and languages are welcome!
+Code Collective is a supportive community for critical–creative coding. It is organized as a collaboratory (colloquium-collaboration-laboratory) emphasizing co-learning and co-teaching, process, and experimentation. In this cooperative space you can dabble in code, troubleshoot a dream project, ask ‘silly’ questions, and explore new programming techniques suited to your artistic practice. The topics and tech will vary based on our shared  interests, always with a focus on the sociotechnical impacts of our practice. All levels and languages are welcome!
 
 ## Where & When
 
@@ -29,8 +29,8 @@ Contact [Sarah](sarah.ciston@khm.de) to join meetups.
 |---|---|---|---|---|
 |1|16 Apr|Introductions|n/a|Sarah|
 |2|23 Apr|Get to Know Git & Terminal|[McQuillan "Predicted Benefits, Proven Harms: How AI’s Algorithmic Violence Emerged from Our Own Social Matrix"](https://wolke.khm.de/index.php/s/ETRjKwjor7ncKyo)|Henry|
-|3|30 Apr|TBD|TBD|TBD|
-<!-- |4|7 May|||| -->
+|3|30 Apr|Git for Writing & Coding|Gebru, Timnit, and Émile P. Torres. 2024. “The TESCREAL Bundle: Eugenics and the Promise of Utopia through Artificial General Intelligence.” First Monday, [https://firstmonday.org/ojs/index.php/fm/article/view/13636]|Sarah or Volunteer|
+|4|7 May|TBD|TBD|TBD|
 <!-- |5|14 May|||| -->
 <!-- |6|21 May|||| -->
 <!-- |7|28 May|||| -->
